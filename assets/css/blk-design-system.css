@@ -106,7 +106,7 @@ body {
   line-height: 1.5;
   color: #525f7f;
   text-align: left;
-  background-color: #171941;
+  background-color: #47CA;
 }
 
 [tabindex="-1"]:focus {
@@ -18556,7 +18556,11 @@ hr.line-deafult {
 }
 
 .landing-page .content-center img {
-  height: 300px;
+  height: 225px;
+}
+
+.landing-page .content-center .row{
+  padding: 10px;
 }
 
 .header-filter {
