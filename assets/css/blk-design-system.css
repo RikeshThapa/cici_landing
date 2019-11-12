@@ -106,7 +106,7 @@ body {
   line-height: 1.5;
   color: #525f7f;
   text-align: left;
-  background-color: #47CA;
+  background-color: #47C;
 }
 
 [tabindex="-1"]:focus {
@@ -13685,7 +13685,7 @@ img {
   padding: 0.9375rem;
   width: 100%;
   z-index: 1050;
-  background: #e14eca;
+  background: #47cA;
 }
 
 .navbar .photo {
